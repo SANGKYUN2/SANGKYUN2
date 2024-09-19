@@ -28,9 +28,24 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+<h3>백엔드 (Backend)</h3>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 ## 🔨 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/user-attachments/assets/028ab7a7-e28b-46be-baec-a768e81db9ab)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=GitHub&logoColor=white)
+
+<div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANGKYUN2&layout=donut&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true&exclude_repo=Face-Transfer-Application" width="38%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=SANGKYUN2&show_icons=true&theme=white&hide_border=true&bg_color=ffffff&icon_color=000000&text_color=000000&title_color=000000&count_private=true" width="56%"/>
+</div>
+
 
